@@ -1,0 +1,3 @@
+﻿  EERover.cpp
+EERover.obj : error LNK2019: unresolved external symbol "public: __thiscall CXBOXController::CXBOXController(int)" (??0CXBOXController@@QAE@H@Z) referenced in function _main
+D:\Sources\Visual Studio\EERover\Debug\EERover.exe : fatal error LNK1120: 1 unresolved externals
